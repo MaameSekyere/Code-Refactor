@@ -42,6 +42,11 @@ header nav ul li {
   margin-left: 25px;
 }
 
+.digital {
+  max-width: 50%;
+  height: 100px;
+}
+
 a {
   color: #ffffff;
   text-decoration: none;

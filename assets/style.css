@@ -48,18 +48,36 @@ header nav ul li {
   vertical-align: middle;
   border: 0;
 }
+
+#goals {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
 .marketing-goals {
-  width: 900px;
-  margin: 0 auto 30px auto;
+  height: 300px;
+  margin-bottom: 20px;
   background: #0072ba;
   color: #fcfaf9;
+  padding: 50px;
 }
-.text-right {
-  float: right;
+.marketing-goals img {
+  max-height: 200px;
+}
+.marketing-goals h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
 }
 .text-left {
   float: left;
+  margin-right: 25px;
 }
+
+.text-right {
+  float: right;
+  margin-left: 25px;
+}
+
 #aside-description {
   float: right;
   display: block;

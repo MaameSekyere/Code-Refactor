@@ -1,4 +1,4 @@
-# Horiseon
+# Horiseon Social Solution Services, Inc.
 
 ## Purpose
 A marketting agency website

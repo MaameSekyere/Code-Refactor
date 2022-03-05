@@ -7,7 +7,7 @@
 body {
   background-color: #d9dcd6;
 }
-
+/* Styles to header applied */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -41,7 +41,9 @@ header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
+/* Header styles end */
 
+/* Digital marketing image style */
 #digital-marketing {
   width: 100%;
   height: 800px;
@@ -49,7 +51,9 @@ header nav ul li {
   background-position: center;
   margin-bottom: 25px;
 }
+/* Digital marketing image style end */
 
+/* Styles applied to section/article */
 #goals {
   width: 75%;
   display: inline-block;
@@ -78,7 +82,9 @@ header nav ul li {
   float: right;
   margin-left: 25px;
 }
+/* Section/article styles end */
 
+/* Aside styles added */
 #aside-description {
   margin-right: 20px;
   padding: 20px;
@@ -104,7 +110,9 @@ header nav ul li {
   margin: 10px auto;
   max-width: 150px;
 }
+/* Aside styles end */
 
+/* Footer Styles applied */
 .footer {
   padding: 30px;
   clear: both;
@@ -116,3 +124,4 @@ header nav ul li {
 .footer h2 {
   font-size: 15px;
 }
+/* Footer styles end */
